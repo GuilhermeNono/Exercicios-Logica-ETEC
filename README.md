@@ -5,7 +5,7 @@
 
 ### ✪ Objetivos primarios
 
-- [x Completar todos os exercicios requeridos na aula
+- [x] Completar todos os exercicios requeridos na aula
 
 #
 ![DisneyPlusDashBoard](https://i.imgur.com/P2Vhz2o.png)
